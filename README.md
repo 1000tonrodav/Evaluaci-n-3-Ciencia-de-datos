@@ -1,7 +1,11 @@
 # 📊 Plataforma Avanzada de People Analytics & Business Intelligence
 
 ## 👥 Autores
-* **
+
+Álex Hevia
+Yurfran Uzcategui
+Milton Rojas
+
 ---
 
 ## 📝 Descripción del Proyecto
